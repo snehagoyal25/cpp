@@ -1,4 +1,8 @@
 // Star pattern
+// *
+// **
+// ***
+// ****
 
 #include<iostream>
 using namespace std;
